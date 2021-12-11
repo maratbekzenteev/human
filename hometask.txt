@@ -1,1 +1,8 @@
 master отличается от demo тем, что в нем у человека есть кнопки на одежде, а в demo их нет.
+
+Комментарии из коммитов:
+Merge remote-tracking branch 'origin/hat'
+Merge branch 'boots_buttons'
+Сравнил demo и master
+Merge pull request #1 from maratbekzenteev/master
+Список коммитов
